@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "df520294-ab96-a785-71c1-f3ddeee71998",
+  "instructors": {
+    "content": [
+      "6bd4ab98-c100-d68b-ba75-4178039e2e9e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5df8aa2c-10fe-1b90-737c-9f0e747b0f70",
+    "website": "18-330-introduction-to-numerical-analysis-spring-2012"
+  },
+  "course_title": "Introduction to Numerical Analysis",
+  "hide_download": true,
+  "course_description": "This course analyzed the basic techniques for the efficient numerical solution of problems in science and engineering. Topics spanned root finding, interpolation, approximation of functions, integration, differential equations, direct and iterative methods in linear algebra.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.330",
+  "course_image_thumbnail": {
+    "content": "11b7a7ac-edf8-5666-5930-a81fdeda4c42",
+    "website": "18-330-introduction-to-numerical-analysis-spring-2012"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "e29e50b1-1f0a-47ad-8ddd-f37d37c77a42",
+  "site_short_id": "18.330-spring-2012",
+  "site_url_path": "courses/18-330-introduction-to-numerical-analysis-spring-2012",
+  "title": "Course Metadata"
+}
