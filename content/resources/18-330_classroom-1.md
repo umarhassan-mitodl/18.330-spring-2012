@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/175c590cfc9690043d32cd362192ddb2_18-330_classroom-1.png
 file_size: 72919
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

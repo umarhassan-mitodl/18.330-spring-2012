@@ -4,8 +4,6 @@ description: This file contains information regarding Chapter 3.
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/fd3b0e48e1babfcc36db7c012078318d_MIT18_330S12_Chapter3.pdf
 file_size: 688979
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

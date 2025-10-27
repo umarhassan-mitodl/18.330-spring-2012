@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides MATLAB code for polynomial interpolation, spline
   interpolation, solving ordinary differential equation, and bandlimited interpolation.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

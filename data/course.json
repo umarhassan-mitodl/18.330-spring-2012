@@ -26,7 +26,6 @@
     "website": "18-330-introduction-to-numerical-analysis-spring-2012"
   },
   "course_title": "Introduction to Numerical Analysis",
-  "hide_download": true,
   "course_description": "This course analyzed the basic techniques for the efficient numerical solution of problems in science and engineering. Topics spanned root finding, interpolation, approximation of functions, integration, differential equations, direct and iterative methods in linear algebra.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "11b7a7ac-edf8-5666-5930-a81fdeda4c42",
     "website": "18-330-introduction-to-numerical-analysis-spring-2012"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets",
